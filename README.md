@@ -85,7 +85,7 @@ Arduino measurements are exported as **CSV files** and processed using Python.
 
 The analysis script:
 
-analysis/plot_results.py
+plot_results.py
 
 generates plots comparing:
 
